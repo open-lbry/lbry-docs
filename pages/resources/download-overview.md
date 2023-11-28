@@ -7,7 +7,7 @@ This resource outlines the step-by-step process of using the LBRY protocol to do
 
 ## Getting Started
 
-Downloading spans the three core components of LBRY (blockchain, DHT, blob exchange) and explains the structure of the [claim metadata](/spec#metadata) and the blobs that make up a [LBRY stream](/spec#data).
+Downloading spans the three core components of LBRY (blockchain, DHT, blob exchange) and explains the structure of the [claim metadata](https://spec.lbry.com#metadata) and the blobs that make up a [LBRY stream](https://spec.lbry.com#data).
 
 You will need:
 
