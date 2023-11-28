@@ -4,14 +4,14 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>LBRY Docs</span>,
   project: {
-    link: 'https://github.com/LBRY-Open-Network/lbry-docs',
+    link: 'https://github.com/open-lbry/lbry-docs',
   },
   // chat: {
   //   link: 'https://discord.com',
   // },
-  docsRepositoryBase: 'https://github.com/LBRY-Open-Network/lbry-docs',
+  docsRepositoryBase: 'https://github.com/open-lbry/lbry-docs',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'LBRY Docs © 2023',
   },
 }
 
