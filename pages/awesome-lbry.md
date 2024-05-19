@@ -15,6 +15,7 @@ Request for access via [Twitter](https://twitter.com/kaichaosun)
 
 ```bash
 hub.lbry.grin.io:50001
+s1.lbry.network:50001
 
 a-hub1.odysee.com:50001
 b-hub1.odysee.com:50001
